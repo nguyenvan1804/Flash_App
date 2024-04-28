@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="google_app_id">1:164683522841:android:766e58f905713abb655b88</string>
+    <string name="firebase_database_url">https://console.firebase.google.com/u/0/project/flash-chat-4c34a/overview</string>
+    <string name="gcm_defaultSenderId">164683522841</string>
+    <string name="project_id">flash-chat-4c34a</string>
+    <string name="storage_bucket">flash-chat-4c34a.appspot.com</string>
+    <string name="api_key">AIzaSyALKVb958A8Jyn-fMm83hCeBtLgTpu4gT4</string>
+</resources>
